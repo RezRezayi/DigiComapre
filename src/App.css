@@ -1,0 +1,207 @@
+
+
+* {
+  margin: 0;
+  padding: 0
+}
+
+body {
+  direction: rtl;
+  
+}
+
+
+
+
+
+
+.tableProducts {
+  margin-top: 50px;
+}
+
+.tableProducts thead {
+  color: black;
+}
+
+
+
+.tableProducts td {
+  border-color: #bfc9c6 !important;
+}
+
+
+
+#topnavbar {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 10;
+ 
+}
+
+#topnavbar navbar{
+  background-color: white;
+}
+
+.navbar {
+  background-color: #fff;
+  font-weight: 700;
+  font-size: .9rem
+}
+
+
+.navbar .nav-link {
+  padding-left: 1em !important;
+  padding-right: 1rem !important
+}
+
+.navbar .nav-item.active {
+  border-right: #c7c7c7 2px solid
+}
+
+.navbar .nav-item.active a {
+  color: #4b4b4b !important;
+  font-size: larger
+}
+
+
+
+.navbar .logo-img {
+  width: 8rem;
+  height: 40px;
+  padding-left: 20px
+}
+
+.navbar .navbar-nav li {
+  padding: 0 2px
+}
+
+.navbar .navbar-nav li a {
+  color: #4b4b4b !important;
+  float: right;
+  text-align: right
+}
+
+
+#topnavbar{
+  background-color: white;
+}
+.navbar-brand img {
+  color: white !important;
+  height: 100px;
+}
+
+
+.form-inline{
+  width: 100%;
+}
+
+
+
+
+.login-container {
+  padding: 20px;
+  
+  color: #4b4b4b !important
+}
+
+.login-container a {
+  text-decoration: none;
+  color: #4b4b4b !important;
+  padding: 10px
+}
+
+.login-container .fa-user {
+ 
+  margin:10px;
+  font-size: 20px;
+  
+  
+}
+
+.login-container .fa-shopping-cart{
+  margin:10px;
+  font-size: 20px;
+}
+
+.login-container button{
+ color: rgb(36, 36, 36);
+  background-color: white !important;
+  border : none !important;
+  margin:20px;
+}
+
+.login-container button:hover{
+  color: rgb(36, 36, 36);
+   background-color: white !important;
+   border : none !important;
+   margin:20px;
+ }
+
+
+
+ 
+
+.card {
+  margin-top: 50px;
+  border: 1px solid #bfc9c6 !important;
+  
+}
+
+.card-title {
+  font-style: bold;
+}
+
+.cardButton {
+  background-color:rgb(0, 190, 248) !important;
+  color: white !important;
+  
+  float: right;
+}
+
+
+
+footer{
+  direction: rtl !important;
+  text-align: center;
+}
+
+
+.footer-box{
+  padding: 20px;
+}
+
+.container-fa{
+  font-size: 25px;
+  padding :15px;
+  color: #4b4b4b;
+  text-align: center;
+}
+
+.customer-services{
+  margin-top: 50px;
+  margin-bottom: -50px;
+  
+  padding: 70px 20px;
+  margin-left: -100px;
+  margin-right: -100px;
+  
+}
+
+.customer-services input{
+  box-shadow: none;
+  border-radius: 5px;
+  
+}
+
+.customer-services .input-group{
+ padding: 20px;
+  
+}
+
+
+
+
+
+
+

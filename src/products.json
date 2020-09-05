@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "گوشی موبایل Galaxy a51",
+    "price": 5000000,
+    "camera": "23 مگاپیکسل",
+    "image": "a51.jpg",
+    "colour": "مشکی",
+    "description": "توضیحی راجع به گوشی a51"
+  },
+  {
+    "id": 2,
+    "name": "گوشی موبایل Galaxy a60",
+    "price": 7000000,
+    "camera": "25 مگا پیکسل",
+    "image": "a60.jpg",
+    "colour": "قرمز",
+    "description": "توضیحی راجع به گوشی a60"
+  },
+  {
+    "id": 3,
+    "name": "گوشی موبایل Galaxy A70",
+    "price": 10000000,
+    "camera": "30مگا پیکسل",
+    "image": "a70.jpg",
+    "colour": "سفید",
+    "description":"توضیحی راجع به گوشی a70"
+  },
+  {
+    "id": 4,
+    "name": "گوشی موبایل Galaxy A71",
+    "price": 9000000,
+    "camera":"25 مگاپیکسل",
+    "image": "a71.jpg",
+    "colour": "آبی",
+    "description": "توضیحی راجع به گوشی a71"
+  }
+]
